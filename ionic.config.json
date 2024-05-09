@@ -1,0 +1,7 @@
+{
+  "name": " grabaho-ionic-tabs",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
